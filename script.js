@@ -15,6 +15,11 @@ const poems = [
     image: "bee.jpeg",
   },
   {
+    author: "Cranky Tom",
+    poem: "Roses are dumb \n violets are worse \n shut up already",
+    image: "grrrr.jpg",
+  },
+  {
     author: "Seyon",
     poem: "Not all that gliter is gold \n Not all who wander are lost\n Not all that question are confused \n That's the way of life",
     image: "seyon_poem.jpg",
